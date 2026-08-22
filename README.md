@@ -12,11 +12,9 @@
 
 ```yaml
 Name: Arpit Prashar
-Role: Software Engineer / Full-Stack Developer
-Experience: 5+ Months
+Role: AI & ML / Web Dev
 Focus: Scalable Systems, Product Engineering, Clean Architecture
-Tech Stack: React.js, Node.js, MongoDB, JavaScript
-Problem Solving: 100+ DSA Problems Solved
+Tech Stack: HTML/CSS, React.js, Node.js, MongoDB, JavaScript
 Current Goal: Building production-grade scalable applications
 ```
 
@@ -71,7 +69,7 @@ Current Goal: Building production-grade scalable applications
 - Reusable UI component systems
 
 ### 🧠 Problem Solving
-- 100+ DSA problems solved
+- 50+ DSA problems solved
 - Strong grasp of algorithms & data structures
 - Focused on logical and optimized solutions
 
