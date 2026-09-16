@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=220&section=header&text=Arpit%20Prashar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-ML%20Engineer%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;DSA+Enthusiast+%7C+Clean+Architecture+Lover" alt="Typing SVG" />
 
 </div>
 
