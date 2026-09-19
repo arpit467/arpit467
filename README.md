@@ -68,7 +68,7 @@ Current Goal: Building production-grade scalable applications
 - Reusable UI component systems
 
 ### 🧠 Problem Solving
-- 50+ DSA problems solved
+- DSA problems solving
 - Strong grasp of algorithms & data structures
 - Focused on logical and optimized solutions
 
@@ -123,11 +123,6 @@ Current Goal: Building production-grade scalable applications
 
 ---
 
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/arpit1245?theme=dark&font=Nunito&ext=heatmap"/>
 
 </div>
 
